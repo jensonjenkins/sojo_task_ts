@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sojo_task_ts/static/css/main.ce42be89.css",
+    "main.js": "/sojo_task_ts/static/js/main.11a014ac.js",
+    "static/js/787.e77960e3.chunk.js": "/sojo_task_ts/static/js/787.e77960e3.chunk.js",
+    "static/media/sojo_logo.jpg": "/sojo_task_ts/static/media/sojo_logo.fbf80de9462930c22dc7.jpg",
+    "index.html": "/sojo_task_ts/index.html",
+    "main.ce42be89.css.map": "/sojo_task_ts/static/css/main.ce42be89.css.map",
+    "main.11a014ac.js.map": "/sojo_task_ts/static/js/main.11a014ac.js.map",
+    "787.e77960e3.chunk.js.map": "/sojo_task_ts/static/js/787.e77960e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce42be89.css",
+    "static/js/main.11a014ac.js"
+  ]
+}
