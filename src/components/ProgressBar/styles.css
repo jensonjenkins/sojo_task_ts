@@ -1,0 +1,16 @@
+
+.MainBar{
+    width: 100%;
+    height:8px;
+    border-radius: 4px;
+    padding: 0px;
+    background-color: #E0E0E0;
+    margin-top: 10px;
+    margin-bottom:30px;
+}
+.Progress{
+    height:8px;
+    border-radius: 4px;
+    background-color: #0166C0;
+    transition: 0.5s ease-in-out;
+}

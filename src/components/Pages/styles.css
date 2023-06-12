@@ -1,0 +1,38 @@
+
+.buttonContainer{
+    position:absolute;
+    right:45px;
+    bottom: 45px;
+    
+
+}
+
+.Next{
+    background-color: #0166C0;
+    padding: 10px 24px 10px 24px;
+    border-radius: 24px;
+    border: 0px;
+    font-family: 'Lexend', sans-serif;
+    color: white;
+}
+
+
+.Next:hover{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    transition: 0.1s ease-in-out;
+}
+
+
+.Previous{
+    background-color: white;
+    padding: 10px 24px 10px 24px;
+    border-radius: 24px;
+    border: 0px;
+    font-family: 'Lexend', sans-serif;
+    color:#0166C0;
+}
+
+.Previous:hover{
+    text-decoration: underline;
+}
+
